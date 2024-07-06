@@ -1,4 +1,4 @@
-🌟 MedInsight Pro - Disease Prediction and Information Center 🌟
+🌟 MedInsight Pro - Disease Prediction and Information Center 🌟(https://medinsight-pro-5.onrender.com/)
 
 MedInsight Pro is a web-based application developed using Streamlit that predicts the risk of three diseases: Diabetes, Heart Disease, and Parkinson's Disease. This application uses pre-trained machine learning models to provide predictions and personalized health recommendations based on user inputs.
 
@@ -36,7 +36,7 @@ streamlit run app.py
 
 🖥️ Usage
 
-Open the web application in your browser (usually http://localhost:8501).
+Open the web application in your browser ([usually http://localhost:8501](https://medinsight-pro-5.onrender.com/)).
 
 Navigate through the main page to read about each disease.
 
