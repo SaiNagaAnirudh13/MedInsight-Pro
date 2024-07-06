@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 
 # Load models (Replace with your model paths)
-with open(r'C:/Users/aniru/OneDrive/Desktop/multiple disease/saved models/diabetes_model (1).sav', 'rb') as f:
+with open(r'multiple disease/saved models/diabetes_model (1).sav', 'rb') as f:
     diabetes_model = pickle.load(f)
 with open(r'C:/Users/aniru/OneDrive/Desktop/multiple disease/saved models/heart_disease_model (1).sav', 'rb') as f:
     heart_disease_model = pickle.load(f)
