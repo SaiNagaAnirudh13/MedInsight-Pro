@@ -6,7 +6,7 @@ with open(r'C:/Users/aniru/OneDrive/Desktop/multiple disease/saved models/diabet
     diabetes_model = pickle.load(f)
 with open(r'C:/Users/aniru/OneDrive/Desktop/multiple disease/saved models/heart_disease_model (1).sav', 'rb') as f:
     heart_disease_model = pickle.load(f)
-with open(r'C:/Users/aniru/OneDrive/Desktop\/multiple disease/saved models/parkinsons_model (1).sav', 'rb') as f:
+with open(r'C:/Users/aniru/OneDrive/Desktop/multiple disease/saved models/parkinsons_model (1).sav', 'rb') as f:
     parkinsons_model = pickle.load(f)
 
 # Function to validate input
